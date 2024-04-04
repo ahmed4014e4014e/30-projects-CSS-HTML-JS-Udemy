@@ -1,0 +1,24 @@
+body {
+    font-family: 'Akaya Telivigala', system-ui;
+    height: 100vh;
+    background: url(https://source.unsplash.com/selective-focus-photography-of-orange-and-white-cat-on-brown-table-75715CVEJhI) center/cover no-repeat;
+}
+
+.speed-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 120px;
+}
+label {
+    margin-right: 1rem;
+    color: black;
+    font-size: 1rem;
+}
+input {
+    color: #fff;
+}
+#story {
+    color: #fff;
+    max-width: 400px;
+}
